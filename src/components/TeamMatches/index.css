@@ -1,0 +1,53 @@
+/* Write your CSS here */
+
+.second-main {
+  padding: 100px;
+  background-image: linear-gradient(#a4261d, #1e293b);
+  min-height: 100vh;
+  min-width: 380px;
+}
+.rcb {
+  background: linear-gradient(to top, #1e293b, #a4261d);
+}
+
+.kkr {
+  background: linear-gradient(to top, #1e293b, #5755a7);
+}
+
+.kxp {
+  background: linear-gradient(to top, #1e293b, #d91c1f);
+}
+
+.csk {
+  background: linear-gradient(to top, #1e293b, #f7db00);
+}
+
+.rr {
+  background: linear-gradient(to top, #1e293b, #da237b);
+}
+
+.mi {
+  background: linear-gradient(to top, #1e293b, #13418b);
+}
+
+.srh {
+  background: linear-gradient(to top, #1e293b, #f26d22);
+}
+
+.dc {
+  background: linear-gradient(to top, #1e293b, #4f5db0);
+}
+
+.banner {
+  height: 300px;
+  width: 98%;
+}
+
+@media (max-width: 576px) {
+  .banner {
+    height: 200px;
+  }
+  .second-main {
+    padding: 20px;
+  }
+}
